@@ -104,6 +104,7 @@ namespace Demo5{
             var coca  = new Producto("Coca Cola", 100);
             var pepsi = new Producto("Pepsi Cola", 120);
             var secco = new Producto("Secco Cola", 80);
+            
             var manao = new Producto("Manao Cola", 60);
 
             var vs = new Ventas();
