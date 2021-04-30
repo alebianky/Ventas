@@ -1,0 +1,16 @@
+D:\Curso C#\Ventas\bin\Debug\net5.0\Ventas.exe
+D:\Curso C#\Ventas\bin\Debug\net5.0\Ventas.deps.json
+D:\Curso C#\Ventas\bin\Debug\net5.0\Ventas.runtimeconfig.json
+D:\Curso C#\Ventas\bin\Debug\net5.0\Ventas.runtimeconfig.dev.json
+D:\Curso C#\Ventas\bin\Debug\net5.0\Ventas.dll
+D:\Curso C#\Ventas\bin\Debug\net5.0\ref\Ventas.dll
+D:\Curso C#\Ventas\bin\Debug\net5.0\Ventas.pdb
+D:\Curso C#\Ventas\obj\Debug\net5.0\Ventas.csprojAssemblyReference.cache
+D:\Curso C#\Ventas\obj\Debug\net5.0\Ventas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C#\Ventas\obj\Debug\net5.0\Ventas.AssemblyInfoInputs.cache
+D:\Curso C#\Ventas\obj\Debug\net5.0\Ventas.AssemblyInfo.cs
+D:\Curso C#\Ventas\obj\Debug\net5.0\Ventas.csproj.CoreCompileInputs.cache
+D:\Curso C#\Ventas\obj\Debug\net5.0\Ventas.dll
+D:\Curso C#\Ventas\obj\Debug\net5.0\ref\Ventas.dll
+D:\Curso C#\Ventas\obj\Debug\net5.0\Ventas.pdb
+D:\Curso C#\Ventas\obj\Debug\net5.0\Ventas.genruntimeconfig.cache
